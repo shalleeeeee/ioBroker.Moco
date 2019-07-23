@@ -16,7 +16,7 @@
                 "zh-cn": "首次出版"
             }
         },
-        "title": "Template (JavaScript)",
+        "title": "MOCO (JavaScript)",
         "titleLang": {
             "en": "Template (JavaScript)",
             "de": "Vorlage (JavaScript)",
@@ -42,7 +42,7 @@
             "zh-cn": "适配器开发模板"
         },
         "authors": [
-            "Author <author@mail.com>"
+            "Author <see-ling@soerensen.com>"
         ],
         "keywords": [
             "ioBroker",
